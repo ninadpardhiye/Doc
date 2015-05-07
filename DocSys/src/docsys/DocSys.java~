@@ -40,7 +40,7 @@ public class DocSys extends Application {
         new SearchPatientPanel();
         new AddPatientPanel();
         new AddPrescriptionPanel();
-        //this will be the git updation test
+        
         new AddInventoryPanel();
         
         root = new BorderPane();
